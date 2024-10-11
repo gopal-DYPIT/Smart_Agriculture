@@ -30,7 +30,7 @@ Our **IoT-based Smart Agriculture System** monitors key environmental parameters
 
 - **Hardware**:
    - Soil moisture sensors, temperature sensors, humidity sensors, light intensity sensors, water TDS sensors, rain detection sensors, Water Flow Rate sensor, Biogas sensor etc.
-   - Microcontroller: Arduino Uno / ESP8266.
+   - Microcontroller: Arduino Uno and ESP8266.
    - lcd display
     
 - **Software**:
